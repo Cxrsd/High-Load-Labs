@@ -1,0 +1,5 @@
+server:
+  port: ${PORT:8080}
+
+instance:
+  id: ${INSTANCE_ID:instance-1}
